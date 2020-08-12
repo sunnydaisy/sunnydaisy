@@ -13,20 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 - 📫 How to reach me: redbear0814@naver.com / https://blog.naver.com/redbear0814
+-->
 
 ## 🔭 Data Scientist & Machine Learning Engineer
 - Currently working on Pharmaceutical co.
 
 ## 🌱Interest
-- Machine Learning 
+- Machine Learning
 - Deep Learning; NLP
 - Algorithm
 - RPA
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wltjs0910@gmail.com)](mailto:wltjs0910@gmail.com)
-redbear0814@naver.com
+
 
