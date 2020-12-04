@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 
 ## 🔭 Data Scientist & Machine Learning Engineer
 - Currently working on Pharmaceutical co.
+- IT, Bigdata Part
 
 ## 🌱Interest
+- Data Analysis
 - Machine Learning
 - Deep Learning; NLP
-- Algorithm
-- RPA
+- Algorithm (Python, C++)
+- RPA (Automation Anywhere)
 
 ## 📫Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wltjs0910@gmail.com)](mailto:wltjs0910@gmail.com)
