@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Data Scientist & Machine Learning Engineer
 - Currently working on Pharmaceutical co.
-- IT, Bigdata Part
+- AI, Bigdata Part
 
 ## 🌱Interest
 - Data Analysis
