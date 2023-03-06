@@ -13,7 +13,7 @@
 
 ## 🌱 Interests
 - Data Scinece
-- Deep Learning; Natural Language Processing, ML Algorithm in Smart Factory
+- Deep Learning; NLP, ML Algorithm in Smart Factory
 - How to apply the Machine Learning in the industry 
 
 ## 📫 How to reach me
