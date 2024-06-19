@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-## 🔭 Data Scientist & AI Project PM
+## 🔭 Data Scientist & AI Project P.O
 - Currently working on Pharmaceutical co.
-- AI, Bigdata Part
+- Especially working on NLP and LLM these days
 - Managing whole AI projects in the company & subsidiary and Developing algorithms :)
 
 ## ✍ Education
@@ -12,9 +12,9 @@
 - LLB / B.Sc. in Law and Computer Science(SCSC;Samsung Convergence Software Course) (Double Major) Sookmyung Womens University 
 
 ## 🌱 Interests
-- Data Scinece
-- Deep Learning; NLP, ML Algorithm in Smart Factory
-- How to apply the Machine Learning in the industry 
+- AI Data Scinece 
+- Deep Learning; NLP, ML Algorithms
+- How to apply the LLMs and Machine Learning in the industry 
 
 ## 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wltjs0910@gmail.com)](mailto:wltjs0910@gmail.com)
