@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-## 🔭 Data Scientist & AI Project P.O
-- Currently working on Pharmaceutical co.
+## 🔭 5+ Years Experienced AI Data Scientist & AI Project P.O
+- Currently driving AI transformation in the **construction industry** 
 - Especially working on NLP and LLM these days
 - Managing whole AI projects in the company & subsidiary and Developing algorithms :)
 
