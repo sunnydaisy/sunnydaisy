@@ -8,7 +8,7 @@
 
 ## ✍ Education
 - M.Sc. student in Data eXperience Laboratory at Sungkyunkwan University, advised by Eunil Park.
-- M.Sc. in Applied DataScience Sungkyunkwan University @ Seoul, Republic of Korea Mar 2022 to present
+- M.Sc. in Applied DataScience Sungkyunkwan University @ Seoul, Republic of Korea Mar 2022 to Feb 2024
 - LLB / B.Sc. in Law and Computer Science(SCSC;Samsung Convergence Software Course) (Double Major) Sookmyung Womens University 
 
 ## 🌱 Interests
